@@ -1,2 +1,1 @@
-### Home
-![Example](doc/scraping-example.gif?raw=true "Django-Scraper Example")
+![Example](src/Assets/Home.gif?raw=true)
