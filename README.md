@@ -1,1 +1,2 @@
-<iframe src="https://giphy.com/embed/az2eQCby42naqDTdi9" width="480" height="235" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/az2eQCby42naqDTdi9">via GIPHY</a></p>
+### Home
+![Example](doc/scraping-example.gif?raw=true "Django-Scraper Example")
